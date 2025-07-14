@@ -8,9 +8,7 @@
 * Eagle logo branding
 
 
-### ✅ `README.md`
 
-markdown
 # 🦅 *Chatbot* — RAG App using Google Gemini + LangChain
 
 A Mars-themed, eagle-branded **Retrieval-Augmented Generation (RAG)** chatbot built with **Streamlit**, using **Google Gemini** via LangChain, and a local vectorstore powered by **Chroma**.
