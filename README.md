@@ -45,7 +45,7 @@ pip install -r requirements.txt
 Create a `.env` file for your Google Gemini key:
 
 ```
-GOOGLE_API_KEY=your_google_generative_ai_key
+GOOGLE_API_KEY=your_google_generative_api_key
 ```
 
 ---
