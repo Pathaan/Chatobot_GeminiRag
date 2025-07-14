@@ -7,7 +7,6 @@
 * Mars-colored UI
 * Eagle logo branding
 
----
 
 ### ✅ `README.md`
 
