@@ -10,12 +10,12 @@
 
 ### ✅ `README.md`
 
-````markdown
+markdown
 # 🦅 *Chatbot* — RAG App using Google Gemini + LangChain
 
 A Mars-themed, eagle-branded **Retrieval-Augmented Generation (RAG)** chatbot built with **Streamlit**, using **Google Gemini** via LangChain, and a local vectorstore powered by **Chroma**.
 
----
+
 
 ## 🚀 Features
 
@@ -25,14 +25,14 @@ A Mars-themed, eagle-branded **Retrieval-Augmented Generation (RAG)** chatbot bu
 - 🎨 **Mars Red Theme** — Custom background and eagle logo UI
 - 💬 **Chat History** — Remembers your conversation per session
 
----
+
 
 ## 🖥️ Demo UI
 
 ![screenshot](example.png)  
 *Eagle-themed, Mars-colored Streamlit chatbot with memory and file upload*
 
----
+
 
 ## 📦 Requirements
 
