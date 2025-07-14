@@ -82,21 +82,11 @@ geminirag/
 └── README.md
 ```
 
----
 
-## 🌍 Deployment Options
-
-* [Hugging Face Spaces](https://huggingface.co/spaces) – easiest for Streamlit apps
-* [Render](https://render.com) – scalable & custom domains
-* [Streamlit Community Cloud](https://streamlit.io/cloud)
-
-Need deployment help? [Ask here](#) or [contact me](https://github.com/Pathaan).
-
----
 
 ## 📜 License
 
-MIT License – use, modify, and fly freely like an eagle 🦅
+BSD 3-Clause License – use, modify, and fly freely like an eagle 🦅
 
 ---
 
