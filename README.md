@@ -1,12 +1,3 @@
-# Chatbot
-
-
-* PDF-based RAG
-* Google Gemini
-* Chroma vector DB
-* Mars-colored UI
-* Eagle logo branding
-
 
 
 # 🦅 *Chatbot* — RAG App using Google Gemini + LangChain
