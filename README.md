@@ -18,7 +18,7 @@ A Mars-themed, eagle-branded **Retrieval-Augmented Generation (RAG)** chatbot bu
 
 ## 🖥️ Demo UI
 
-![screenshot](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f84ed281-580f-4940-996a-a122d5acd0b6" />
+(<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f84ed281-580f-4940-996a-a122d5acd0b6" />
 )  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/be101518-9a27-49fd-9f8f-b7a9311cff63" />
 
 *Eagle-themed, Mars-colored Streamlit chatbot with memory and file upload*
