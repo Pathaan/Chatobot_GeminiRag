@@ -112,6 +112,7 @@ MIT License – use, modify, and fly freely like an eagle 🦅
 ## 🧑‍💻 Author
 
 **Md Shahrukh**
+[@Linkedin](https://linkedin.com/in/md-shahrukh-locky/)
 Actuarial Analyst | Data Scientist | ISI Kolkata
 GitHub: [@Pathaan](https://github.com/Pathaan)
 
