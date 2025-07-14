@@ -1,0 +1,16 @@
+langchain
+langchain_community
+langchain-google-genai
+# langchain-huggingface
+langchain_experimental
+sentence-transformers
+langchain_chroma
+langchainhub
+pypdf
+rapidocr-onnxruntime
+dotenv
+streamlit
+# groq
+# beautifulsoup4
+# langchain-groq
+# huggingface_hub
