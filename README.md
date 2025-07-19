@@ -148,6 +148,10 @@ Create a `.env` file for your Google Gemini key:
 ```
 python -m venv myenv
 ```
+
+```
+myenv/Scripts/activate   #Activate .env file
+```
 ```
 GOOGLE_API_KEY=your_google_generative_api_key
 ```
